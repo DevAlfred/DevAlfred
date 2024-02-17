@@ -11,8 +11,10 @@
 <br>
 
 - Un passionné de programmation autodidacte
+- J'habite en Côte d'ivoire
+- Né le 20 août 2000
 - Actuellement étudiant en informatique
-- En train d'apprendre le développement web, mobile par moi-même
+- En train d'apprendre le développement web, mobile
 - Je suis ouvert à des opportunités de stage ou d'emploi
   
 <br><br>
@@ -66,7 +68,9 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+
 
 <br>
 
@@ -102,8 +106,9 @@
 
 <li>
 <a href="tel:+2250704754019" target="_blank">
-<img src="https://img.shields.io/badge/Telephone-007ACC?style=for-the-badge&logo=telephone&logoColor=white" alt="telephone" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Telephone-007ACC?style=for-the-badge&logoColor=white" alt="telephone : +2250704754019" style="margin-bottom: 5px;"/>
 </a>
+
 
 </li>
 
