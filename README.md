@@ -10,11 +10,12 @@
 
 <br>
 
-- Un passionné de programmation autodidacte
-- J'habite en Côte d'ivoire
+- Mon nom complet est Bomouan Animan Alfred
 - Né le 20 août 2000
-- Actuellement étudiant en informatique
-- En train d'apprendre le développement web, mobile
+- J'habite en Côte d'ivoire
+- Je suis passionné de programmation autodidacte
+- Actuellement étudiant en informatique dans un système LMD
+- Je fais le développement web & mobile, réseaux, base de données et autres
 - Je suis ouvert à des opportunités de stage ou d'emploi
   
 <br><br>
