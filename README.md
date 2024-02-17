@@ -109,8 +109,6 @@
 <a href="tel:+2250704754019" target="_blank">
 <img src="https://img.shields.io/badge/Telephone: +2250704754019-007ACC?style=for-the-badge&logoColor=white" alt="telephone : +2250704754019" style="margin-bottom: 5px;"/>
 </a>
-
-
 </li>
 
 <br>
