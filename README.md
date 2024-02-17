@@ -106,7 +106,7 @@
 
 <li>
 <a href="tel:+2250704754019" target="_blank">
-<img src="https://img.shields.io/badge/Telephone-007ACC?style=for-the-badge&logoColor=white" alt="telephone : +2250704754019" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Telephone: +2250704754019-007ACC?style=for-the-badge&logoColor=white" alt="telephone : +2250704754019" style="margin-bottom: 5px;"/>
 </a>
 
 
@@ -116,7 +116,7 @@
 
 <li>
 <a href="mailto:animanalfred@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail:  animanalfred@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
