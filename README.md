@@ -10,11 +10,8 @@
 
 <br>
 
-- Mon nom complet est Bomouan Animan Alfred
-- J'habite en Côte d'ivoire
-- Je suis passionné de programmation autodidacte
-- Je fais le développement web & mobile, réseaux, base de données et autres
-- Je développe des scripts PHP
+- Je vis en Côte d'Ivoire et suis passionné par la programmation informatique en tant qu'autodidacte
+- Je crée des scripts PHP, et je travaille activement à perfectionner mes compétences pour offrir des services professionnels et innovants.
 
 <br><br>
 
