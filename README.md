@@ -4,7 +4,7 @@
 <br>
 
 	
-## <picture><img src = "https://camo.githubusercontent.com/2a0490e2e64cf1697dfd6a8a6f5463015988a36c72037df13d0dfec04f44f7d9/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6d6e73682d684151774b417a6e394f476d2f67697068792e676966" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp" width = 250px></picture>
 
