@@ -28,10 +28,10 @@
 - **Mon Profil CodeCanyon**:
   
   Découvrez mes projets et ressources sur CodeCanyon :  
-[Visitez mon profil CodeCanyon](https://codecanyon.net/user/devalfred)
+  [Visitez mon profil CodeCanyon](https://codecanyon.net/user/devalfred)
 
-![CodeCanyon](https://img.shields.io/badge/CodeCanyon-131313?style=for-the-badge&logo=envato&logoColor=white)
-<br> 
+  ![CodeCanyon](https://img.shields.io/badge/CodeCanyon-131313?style=for-the-badge&logo=envato&logoColor=white)
+  <br> 
 
 - **Languages**:
     
