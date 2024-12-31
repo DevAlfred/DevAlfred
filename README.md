@@ -11,13 +11,11 @@
 <br>
 
 - Mon nom complet est Bomouan Animan Alfred
-- Né le 20 août 2000
 - J'habite en Côte d'ivoire
 - Je suis passionné de programmation autodidacte
-- Actuellement étudiant en informatique dans un système LMD
 - Je fais le développement web & mobile, réseaux, base de données et autres
-- Je suis ouvert à des opportunités de stage ou d'emploi
-  
+- Je développe des scripts PHP
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -26,15 +24,23 @@
 <br>
 
 <p align="center">
+- **Mon Profil CodeCanyon**
 
+Découvrez mes projets et ressources sur CodeCanyon :  
+[Visitez mon profil CodeCanyon](https://codecanyon.net/user/devalfred)
+
+---
+
+![CodeCanyon](https://img.shields.io/badge/CodeCanyon-131313?style=for-the-badge&logo=envato&logoColor=white)
+<br>  
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-   ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-    ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>   
     
@@ -44,14 +50,15 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 <br>
 
 - **App Development**:
 
    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
 <br>
 
