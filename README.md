@@ -26,11 +26,13 @@
 <p align="center">
  
 - **Mon Profil CodeCanyon**:
+  
   Découvrez mes projets et ressources sur CodeCanyon :  
 [Visitez mon profil CodeCanyon](https://codecanyon.net/user/devalfred)
 
 ![CodeCanyon](https://img.shields.io/badge/CodeCanyon-131313?style=for-the-badge&logo=envato&logoColor=white)
 <br> 
+
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
