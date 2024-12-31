@@ -107,7 +107,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/alfred-bomouan-7262451b9/" target="_blank">
+<a href="https://www.linkedin.com/in/animan-alfred-bomouan/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
