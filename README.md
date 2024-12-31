@@ -31,6 +31,8 @@
   [Visitez mon profil CodeCanyon](https://codecanyon.net/user/devalfred)
 
   ![CodeCanyon](https://img.shields.io/badge/CodeCanyon-131313?style=for-the-badge&logo=envato&logoColor=white)
+  ![Envato](https://img.shields.io/badge/Envato-81B441?style=for-the-badge&logo=envato&logoColor=white)
+
   <br> 
 
 - **Languages**:
