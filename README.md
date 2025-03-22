@@ -11,7 +11,7 @@
 <br>
 
 - Je vis en Côte d'Ivoire et suis passionné par la programmation informatique
-- Je crée des scripts PHP, et je travaille activement à perfectionner mes compétences pour offrir des services professionnels et innovants.
+- Je crée des solutions numériques, et je travaille activement à perfectionner mes compétences pour offrir des services professionnels et innovants.
 
 <br><br>
 
