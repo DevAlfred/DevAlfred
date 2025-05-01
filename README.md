@@ -13,6 +13,7 @@
 - Je vis en Côte d'Ivoire et suis passionné par la programmation informatique
 - Je crée des solutions numériques, et je travaille activement à perfectionner mes compétences pour offrir des services professionnels et innovants.
 
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -22,13 +23,12 @@
 
 <p align="center">
  
-- **Mon Profil CodeCanyon**:
+- **Portfolio**:
   
-  Découvrez mes projets et ressources sur CodeCanyon :  
-  [Visitez mon profil CodeCanyon](https://codecanyon.net/user/devalfred)
+  Découvrez mes projets et ressources sur mon site internet :  
+  [https://www.devalfred.com](https://www.devalfred.com/)
 
-  ![CodeCanyon](https://img.shields.io/badge/CodeCanyon-131313?style=for-the-badge&logo=envato&logoColor=white)
-  ![Envato](https://img.shields.io/badge/Envato-81B441?style=for-the-badge&logo=envato&logoColor=white)
+  [![committers.top badge](https://user-badge.committers.top/ivory_coast/DevAlfred.svg)](https://user-badge.committers.top/ivory_coast/DevAlfred)
 
   <br> 
 
