@@ -15,7 +15,7 @@
 - 👨‍💻 Full-stack developer based in Ivory Coast with extensive experience in web and mobile development
 - 🚀 Specializing in creating scalable, efficient, and intuitive digital solutions for businesses and individuals
 - 📚 Continuously enhancing my skills in emerging technologies and industry best practices
-- 🔭 Currently focused on React.js, React Native, and PHP/Laravel development
+- 🔭 Currently focused on React, Flutter, Django and PHP/Laravel development
 - 🌱 Passionate about clean code, software architecture, and delivering exceptional user experiences
 
 <br><br>
@@ -69,7 +69,8 @@
 
 - **Mobile Development**
 
-     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
 
@@ -90,7 +91,9 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 
 <br>
